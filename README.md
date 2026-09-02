@@ -1,2 +1,2 @@
 # shahd-alakhras
-that's my first robot 🤖 
+Robotics & AI Engineering Student | Passionate about Autonomous Systems, Python, ROS & Computer Vision | Continuous Learner 🤖 
